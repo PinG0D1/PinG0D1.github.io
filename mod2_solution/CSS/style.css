@@ -22,7 +22,7 @@ p {
 
 div {
     position: relative;
-    background-color: rgb(201, 201, 201);;
+    background-color: rgb(194, 25, 25);
     border: 3.5px solid black;
     width: 100%;
     margin-left: auto;
@@ -58,7 +58,7 @@ section {
     text-align: center;
     font-size: 125%;
     font-weight: bold;
-    background-color: #FF0000;
+    background-color: #0400ff;
 
 }
 
@@ -79,7 +79,7 @@ section {
 .content {
     padding: 5px;
     border: none;
-    background-color: rgb(201, 201, 201);
+    background-color: rgb(113, 209, 75);
     font-family: Helvetica;
     color: black;
     margin: 3px ;
